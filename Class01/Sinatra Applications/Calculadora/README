@@ -1,0 +1,1 @@
+Simple sinatra application: The application is just a wrapper over system calculator. Attention, this is just for academics purposes, the input is not beeing escaped.
