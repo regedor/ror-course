@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'sinatra'
 require 'haml'
-use_in_file_templates!
 
 get '/' do
   haml :index

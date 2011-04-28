@@ -1,0 +1,93 @@
+/*
+--------------------------------------------------
+Example - Screen base styles
+Author: Jamie Hill, SonicIQ - [soniciq.com]
+-------------------------------------------------- */
+
+body {
+  color: #888;
+  border-top: 4px solid #f7941f;
+  background: #fff;
+  font: 62.5% Verdana, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#wrapper {
+  font-size: 1.2em;
+  position: relative;
+}
+
+/* = Misc
+-------------------------------------------------- */
+
+p, form, h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Arial, sans-serif;
+  margin-bottom: .8em;
+  color: #917856;
+}
+p { margin-bottom: 1.5em; }
+h1 { font-size: 200%; }
+h2 { font-size: 160%; }
+h3 { font-size: 150%; }
+h4 { font-size: 120%; }
+h5 { font-size: 110%; }
+h6 { font-size: 105%; }
+
+input, textarea {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 100%;
+}
+
+/* = Structure
+-------------------------------------------------- */
+
+#header {
+  padding: 1.6em;
+}
+#content {
+  
+}
+#maincol {
+  padding: 1.6em;
+  background: #eee;
+}
+#subcol {
+  padding: 1.6em;
+  background: #ddd;
+}
+
+/* = Navigation
+-------------------------------------------------- */
+
+#nav {
+  background: #f5f5f5;
+}
+
+
+/* = Self-clearing floats
+-------------------------------------------------- */
+
+/* Compliant browsers */
+#maincol:after,
+#subcol:after {
+  content: "."; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+}
+/* IE 5/6 */
+* html #maincol,
+* html #subcol {
+  height: 1%;
+}
+/* IE7 */
+#maincol,
+#subcol {
+  min-height: 1px;
+}

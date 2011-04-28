@@ -1,0 +1,20 @@
+<table>
+  <tr>
+    <th>Super nome</th>
+    <th><%= t('user.list.titles.age') %></th>
+    <th>Male</th>
+    <th>Profile</th>
+  </tr>
+<% users.each do |user| %>
+  <tr>
+    <td><%=h user.nome_artistico %></td>
+    <td><%=h user.age %></td>
+    <td><%=h user.male %></td>
+    <td><%=h user.profile %></td>
+    <td><%= link_to 'Show', user %></td>
+    <td><%= link_to 'Edit', edit_user_path(user) %></td>
+    <td><%= link_to 'Destroy', delete_user_path(user), :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+

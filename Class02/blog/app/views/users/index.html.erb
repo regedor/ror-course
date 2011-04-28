@@ -1,0 +1,15 @@
+<h1>Listing users</h1>
+
+<p><%= link_to 'Old Users', old_users_path({:age => 50}) %></p>
+
+<div>
+  <%= show_command_and_result 'user_path(1)' %>
+  <%= show_command_and_result 'user_url(2)'  %>
+  <%= show_command_and_result 'users_path'   %>
+  <%= show_command_and_result 'new_user_path'%>
+  <%= show_command_and_result 'edit_user_path("sdfsdfgsfdg")'%>
+</div>
+
+<%= render :partial => 'users' %>
+
+<p><%= link_to 'New user', new_user_path %></p>

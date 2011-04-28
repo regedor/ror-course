@@ -1,0 +1,768 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-04-27 16:00:54) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-04-27 16:01:06) [GET]
+
+ActionController::RoutingError (No route matches "/asdf/asdf/a" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-04-27 16:01:09) [GET]
+
+ActionController::RoutingError (No route matches "/asdf/asdf/a" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-04-27 16:01:15) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (28.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.7ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("schema_migrations")[0m
+  [4;36;1mSQL (2.8ms)[0m   [0;1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20110427150359)
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "age" integer, "male" boolean, "profile" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20110427150359')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:02:29) [GET]
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 22ms (View: 17, DB: 1) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2011-04-27 17:02:44) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 18ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#create (for 127.0.0.1 at 2011-04-27 17:03:04) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"zBxyq2IxTaLzIpQDqXKGlYYwuTlVvhRFgn7XhSMo1gk=", "user"=>{"name"=>"Miguel", "profile"=>"Um tipo e tal.", "male"=>"1", "age"=>"97"}}
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("name", "created_at", "profile", "updated_at", "male", "age") VALUES('Miguel', '2011-04-27 16:03:04', 'Um tipo e tal.', '2011-04-27 16:03:04', 't', 97)[0m
+Redirected to http://localhost:3000/users/1
+Completed in 10ms (DB: 0) | 302 Found [http://localhost/users]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2011-04-27 17:03:04) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering template within layouts/users
+Rendering users/show
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:03:18) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 71ms (View: 67, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2011-04-27 17:03:23) [GET]
+Rendering template within layouts/users
+Rendering users/new
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#create (for 127.0.0.1 at 2011-04-27 17:03:43) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"zBxyq2IxTaLzIpQDqXKGlYYwuTlVvhRFgn7XhSMo1gk=", "user"=>{"name"=>"Roberto", "profile"=>"Um fulano e tal.", "male"=>"1", "age"=>"3"}}
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "profile", "updated_at", "male", "age") VALUES('Roberto', '2011-04-27 16:03:43', 'Um fulano e tal.', '2011-04-27 16:03:43', 't', 3)[0m
+Redirected to http://localhost:3000/users/2
+Completed in 10ms (DB: 0) | 302 Found [http://localhost/users]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2011-04-27 17:03:43) [GET]
+  Parameters: {"id"=>"2"}
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+Rendering template within layouts/users
+Rendering users/show
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/users/2]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:03:46) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2011-04-27 17:04:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering template within layouts/users
+Rendering users/edit
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#update (for 127.0.0.1 at 2011-04-27 17:04:40) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"zBxyq2IxTaLzIpQDqXKGlYYwuTlVvhRFgn7XhSMo1gk=", "id"=>"1", "user"=>{"name"=>"Miguel", "profile"=>"Um tipo e tal.", "male"=>"1", "age"=>"96"}}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mUser Update (0.3ms)[0m   [0mUPDATE "users" SET "updated_at" = '2011-04-27 16:04:40', "age" = 96 WHERE "id" = 1[0m
+Redirected to http://localhost:3000/users/1
+Completed in 10ms (DB: 0) | 302 Found [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2011-04-27 17:04:40) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering template within layouts/users
+Rendering users/show
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:04:43) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2011-04-27 17:04:45) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering template within layouts/users
+Rendering users/show
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#destroy (for 127.0.0.1 at 2011-04-27 17:05:13) [DELETE]
+  Parameters: {"authenticity_token"=>"zBxyq2IxTaLzIpQDqXKGlYYwuTlVvhRFgn7XhSMo1gk=", "id"=>"2"}
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+  [4;36;1mUser Destroy (0.4ms)[0m   [0;1mDELETE FROM "users" WHERE "id" = 2[0m
+Redirected to http://localhost:3000/users
+Completed in 70ms (DB: 1) | 302 Found [http://localhost/users/2]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:05:13) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users]
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "profile", "updated_at", "male", "age") VALUES('Rui', '2011-04-27 16:09:15', NULL, '2011-04-27 16:09:15', NULL, NULL)[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:10:18) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 3) [0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 3) [0m
+  [4;36;1mUser Update (0.9ms)[0m   [0;1mUPDATE "users" SET "updated_at" = '2011-04-27 16:11:16', "age" = 44 WHERE "id" = 3[0m
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:11:24) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users]
+  [4;35;1mUser Create (1.1ms)[0m   [0mINSERT INTO "users" ("name", "created_at", "profile", "updated_at", "male", "age") VALUES('asdf', '2011-04-27 16:12:28', NULL, '2011-04-27 16:12:28', NULL, NULL)[0m
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" ORDER BY users.id DESC LIMIT 1[0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" ORDER BY users.id DESC LIMIT 1[0m
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" [0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+
+
+Processing UsersController#index to xml (for 127.0.0.1 at 2011-04-27 17:14:25) [GET]
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" [0m
+Completed in 13ms (View: 8, DB: 0) | 200 OK [http://localhost/users.xml]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" [0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 3) [0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."male" IS NULL) LIMIT 1[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."male" = 't') LIMIT 1[0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."male" = 't') [0m
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing UsersController#index to xml (for 127.0.0.1 at 2011-04-27 17:25:56) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/users.xml]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-04-27 17:26:00) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:26:04) [GET]
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+
+ActionView::TemplateError (undefined local variable or method `user' for #<ActionView::Base:0x1035cb3f0>) on line #6 of app/views/users/index.html.erb:
+3: <table>
+4:   <tr>
+5:     <th>Super nome</th>
+6:     <th><%= t(user.list.titles.age) %></th>
+7:     <th>Male</th>
+8:     <th>Profile</th>
+9:   </tr>
+
+    app/views/users/index.html.erb:6
+    app/controllers/users_controller.rb:7:in `index'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (42.2ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:26:21) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 89ms (View: 84, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:29:31) [GET]
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 25ms (View: 20, DB: 1) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:30:19) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 17ms (View: 12, DB: 1) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:34:14) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:34:23) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 81ms (View: 77, DB: 0) | 200 OK [http://localhost/users]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:45:25) [GET]
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 27ms (View: 22, DB: 1) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:46:25) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:47:13) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:47:53) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 83ms (View: 78, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 17:48:04) [GET]
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:10:46) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."age" = '70') [0m
+
+ActionView::MissingTemplate (Missing template users/old.erb in view path app/views):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:11:33) [GET]
+  [4;35;1mUser Load (0.1ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."age" = '70') [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 17ms (View: 12, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:11:39) [GET]
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 18ms (View: 13, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:17:31) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 81ms (View: 77, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:17:32) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2011-04-27 18:17:36) [GET]
+  Parameters: {"id"=>"ld"}
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 0) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find User with ID=ld):
+  app/controllers/users_controller.rb:16:in `show'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (30.6ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:17:39) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 5) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 15ms (View: 10, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:18:52) [GET]
+  [4;35;1mUser Load (0.0ms)[0m   [0mSQLite3::SQLException: near ")": syntax error: SELECT * FROM "users" WHERE (age > ) [0m
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: near ")": syntax error: SELECT * FROM "users" WHERE (age > ) ):
+  app/controllers/users_controller.rb:9:in `old'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (102.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:19:22) [GET]
+  Parameters: {"age"=>"4"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 4) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/old?age=4]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:19:42) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE (age > 10) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 15ms (View: 10, DB: 1) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:19:55) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:20:51) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:20:52) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 77ms (View: 73, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:20:57) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 17ms (View: 12, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:20:58) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:21:49) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:22:36) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:22:38) [GET]
+  Parameters: {"age"=>"3"}
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:36) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (7.7ms)
+Completed in 86ms (View: 82, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:37) [GET]
+  Parameters: {"age"=>"3"}
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.2ms)
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:38) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.2ms)
+Completed in 15ms (View: 10, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:41) [GET]
+  Parameters: {"age"=>"3"}
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.2ms)
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:42) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.1ms)
+Completed in 15ms (View: 10, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:46) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (78.7ms)
+Completed in 86ms (View: 81, DB: 0) | 200 OK [http://localhost/users/old]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:27:53) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.3ms)
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:27:56) [GET]
+  [4;35;1mUser Load (0.7ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (10.7ms)
+Completed in 18ms (View: 13, DB: 1) | 200 OK [http://localhost/users/]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:31:54) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.4ms)
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users/]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:31:58) [GET]
+  Parameters: {"age"=>"3"}
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/old
+
+ActionView::TemplateError (undefined local variable or method `old_users' for #<ActionView::Base:0x103388c28>) on line #3 of app/views/users/old.html.erb:
+1: <h1>Listing old users</h1>
+2: 
+3: <p><%= link_to 'Users', old_users %></p>
+4: 
+5: <div>
+6:   <%= show_command_and_result 'user_path(1)' %>
+
+    app/views/users/old.html.erb:3
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (100.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:32:21) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/old
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.5ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:32:26) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (10.1ms)
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:32:27) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/old
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.1ms)
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:32:28) [GET]
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (10.3ms)
+Completed in 81ms (View: 77, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:32:28) [GET]
+  Parameters: {"age"=>"3"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 3) [0m
+Rendering template within layouts/users
+Rendering users/old
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (8.4ms)
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/old?age=3]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:32:50) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (10.3ms)
+Completed in 21ms (View: 16, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:32:50) [GET]
+  Parameters: {"age"=>"50"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/old
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (6.0ms)
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/old?age=50]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:32:51) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (10.3ms)
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#old (for 127.0.0.1 at 2011-04-27 18:32:51) [GET]
+  Parameters: {"age"=>"50"}
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE (age > 50) [0m
+Rendering template within layouts/users
+Rendering users/old
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (6.1ms)
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/old?age=50]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2011-04-27 18:32:52) [GET]
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/users
+Rendering users/index
+DEPRECATION WARNING: @users will no longer be implicitly assigned to users. (called from _run_erb_app47views47users47_users46html46erb_locals_object_users at /Users/regedor/Projects/RoR-Course2011/Class02/blog/app/views/users/_users.html.erb:8)
+Rendered users/_users (10.3ms)
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users]
