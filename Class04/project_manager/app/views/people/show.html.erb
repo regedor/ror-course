@@ -1,5 +1,8 @@
 <h1>Show template</h1>
 
-<%= @person %>
+<div>Name:<%= @person.name %></div>
+
+<div>Number of projects:<%= @person.projects.count %></div>
+
 
 <p><%= link_to "List of People", people_path %></p>
