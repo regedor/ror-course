@@ -1,0 +1,14 @@
+<header>
+  <p>Status</p>
+</header>
+
+<div class="status">
+	<h1>Projects (<%= @status.roles.count %>)</h1>
+
+  <% @status.roles.each do |role| %>
+
+  <% end %>
+</div>
+
+
+<%= link_to raw('&larr; Back to Projects'), statuses_path %>

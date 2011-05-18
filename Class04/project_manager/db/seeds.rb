@@ -15,3 +15,8 @@
   Status.find_or_create_by_title(attributes)
 end
 
+
+if (Person.count == 0)
+  Person.create :first_name =>"Luke", :last_name => "skywalker"
+  Person.create :first_name =>"Darth", :last_name => "Vader"
+end

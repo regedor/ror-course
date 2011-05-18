@@ -9,10 +9,11 @@ class PeopleController < ApplicationController
       ]
   end
   
-  def show
-    @person = params[:id]
+  def new
+    @person = Person.new
+    
+    repond_with @person
   end
-
   private
   
   def authenticate
