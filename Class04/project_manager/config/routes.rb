@@ -7,6 +7,10 @@ ProjectManager::Application.routes.draw do
   resources :projects do 
     resources :roles
   end
+  
+  resources :statuses do
+    resources :projects
+  end
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

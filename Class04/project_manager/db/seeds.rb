@@ -20,4 +20,3 @@ if Person.count == 0
   Person.create :first_name => 'darth',  :last_name => 'vader'
   Person.create :first_name => 'Miguel', :last_name => 'Regedor'
 end
-
