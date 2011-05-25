@@ -1,20 +1,25 @@
 class SessionsController < ApplicationController
 
   def new
-   @session = Session.new 
   end
 
   def create
-   @session = Session.new(params[:session])
-   flash[:notice] = "Logged in successfully!" if @session.save
-   respond_with @session
+    query = Person.find_by_login(params[:session][:username], params[:session][:password])
+    if query.empty?
+      flash[:alert] = "Invalid login!"
+      redirect_to new_session_path
+    else
+      flash[:notice]         = "Logged in successfully!"
+      session[:current_user] = query.first.id
+      redirect_to root_path
+    end
   end
 
-  def show
-    
-  end
   
   def destroy
-   flash[:notice] = "Logged out successfully!" if @session.destroy 
+    session[:current_user] = nil
+    flash[:notice] = "Logged out successfully!"
+    redirect_to root_path
   end
+
 end

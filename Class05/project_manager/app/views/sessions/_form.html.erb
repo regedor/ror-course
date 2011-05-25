@@ -1,7 +1,6 @@
-
 <%= semantic_form_for :session, :url => session_path do |form| %>
   <%= form.inputs "Teste" do %>
-    <%= form.input :login , :as => String%>
+    <%= form.input :username, :as => :string%>
     <%= form.input :password, :as => :password %>
   <% end %>
 

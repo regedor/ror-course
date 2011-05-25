@@ -2,7 +2,9 @@
   <p>Projects List</p>
 </header>
 
+<% if logged_in? -%>
 <p class="addlink"><%= link_to 'Create a New Project', new_project_path %></p>
+<% end -%>
 
 <%= render @projects %>
 

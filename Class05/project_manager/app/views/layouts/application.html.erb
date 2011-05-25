@@ -11,7 +11,11 @@
       <%= link_to "Projects", projects_path %>
       <%= link_to "People", people_path     %>
       <%= link_to "Statuses", statuses_path %>
-			<%= link_to "Sessions", sessions_path%>
+      <% if logged_in? -%>
+        <%= link_to "END SESSION", session_path, :method => :delete%>
+      <% else -%>
+        <%= link_to "START SESSION", new_session_path%>
+      <% end -%>
     </p>
   </header>
 

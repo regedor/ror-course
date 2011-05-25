@@ -34,13 +34,19 @@ class ProjectsController < ApplicationController
   # POST /projects
   # POST /projects.xml
   def create
-    @project = Project.new(params[:project])
+    if logged_in?
+      @project = Project.new(params[:project])
 
-    if @project.save
-      flash[:notice] = "Project was successfully created."
+      if @project.save
+        flash[:notice] = "Project was successfully created."
+      end
+
+      respond_with @project
+    else
+      flash[:notice] = "Tens de te logar para fazer isso pah!"
+      redirect_to new_session_path
     end
 
-    respond_with @project
   end
 
   # PUT /projects/1

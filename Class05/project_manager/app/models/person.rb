@@ -11,6 +11,9 @@ class Person < ActiveRecord::Base
   scope :all_lazy, select('*')
   scope :find_lazy, lambda {|id| where(primary_key => id) }
   scope :all_ordered_last, all_lazy.order("last_name ASC")
+
+
+  scope :find_by_login, lambda {|u,p| where(:username => u, :password => p) }
   
   def name
     "#{first_name} #{last_name}"
