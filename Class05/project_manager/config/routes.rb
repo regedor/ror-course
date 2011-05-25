@@ -11,7 +11,9 @@ ProjectManager::Application.routes.draw do
   resources :statuses do
     resources :projects
   end
-
+  
+  resource :session
+   
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
