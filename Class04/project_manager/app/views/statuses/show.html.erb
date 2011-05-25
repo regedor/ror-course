@@ -1,14 +1,15 @@
 <header>
-  <p>Status</p>
+  <p><%= @status.title %> Status</p>
 </header>
 
 <div class="status">
-	<h1>Projects (<%= @status.roles.count %>)</h1>
+  <h1>Number of roles (<%= @status.roles.count %>)</h1>
 
-  <% @status.roles.each do |role| %>
+<%= render @status.projects.uniq -%>
 
-  <% end %>
+
 </div>
 
 
-<%= link_to raw('&larr; Back to Projects'), statuses_path %>
+<%= link_to raw('&larr; Back to Statuses List'), statuses_path %>
+

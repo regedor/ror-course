@@ -1,9 +1,9 @@
-<h1>People</h1>
+<header>
+  <p>People List</p>
+</header>
 
-<ul>
 <% @people.each do |person| %>
-    <li><%= link_to person.name, person_path(person) %></li>
+  <%= resource_title_links person, :content_tag => "h2", :actions => [:show] %>
 <% end %>
-</ul>
 
-<p> <%=link_to person, person_path(all)%></p>
+<p class="addlink"><%= link_to 'Back to Projects', projects_path %></p>

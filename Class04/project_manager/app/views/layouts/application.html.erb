@@ -6,6 +6,14 @@
   </head>
   <body>
 
+  <header>
+    <p>
+      <%= link_to "Projects", projects_path %>
+      <%= link_to "People", people_path     %>
+      <%= link_to "Statuses", statuses_path %>
+    </p>
+  </header>
+
   <% if notice %><p id="notice"><%= notice %></p><% end %>
   <% if alert %><p id="alert"><%= alert %></p><% end %>
 
