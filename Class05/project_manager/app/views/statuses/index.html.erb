@@ -1,0 +1,12 @@
+<header>
+  <p>Statuses List</p>
+</header>
+
+
+<p class="addlink"><%= link_to 'Create a New Status', new_status_path %></p>
+
+<% @statuses.each do |status| %>
+    <%= resource_title_links status, :content_tag => "h2" %>
+<% end -%>
+
+<p class="addlink"><%= link_to 'Back to Projects', projects_path %></p>

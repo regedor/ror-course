@@ -1,0 +1,9 @@
+<header>
+  <p>People List</p>
+</header>
+
+<% @people.each do |person| %>
+  <%= resource_title_links person, :content_tag => "h2", :actions => [:show] %>
+<% end %>
+
+<p class="addlink"><%= link_to 'Back to Projects', projects_path %></p>

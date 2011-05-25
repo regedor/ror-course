@@ -1,0 +1,15 @@
+<header>
+  <p><%= @status.title %> Status</p>
+</header>
+
+<div class="status">
+  <h1>Number of roles (<%= @status.roles.count %>)</h1>
+
+<%= render @status.projects.uniq -%>
+
+
+</div>
+
+
+<%= link_to raw('&larr; Back to Statuses List'), statuses_path %>
+
